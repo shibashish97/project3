@@ -1,4 +1,4 @@
-# Loan_status_prediction_ML
+# Loan Status Prediction ML
 
 Classification Problem as Loan Status of an employee is found using categorical variable (Y,N)
 
